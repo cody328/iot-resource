@@ -1,2 +1,2 @@
-# iot-learning-resource
+# iot-resource
 Free to download
